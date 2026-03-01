@@ -1,0 +1,11 @@
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/bin/Debug/net10.0/CinemaX.Domain.deps.json
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/bin/Debug/net10.0/CinemaX.Domain.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/bin/Debug/net10.0/CinemaX.Domain.pdb
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/CinemaX.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/CinemaX.Domain.AssemblyInfoInputs.cache
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/CinemaX.Domain.AssemblyInfo.cs
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/CinemaX.Domain.csproj.CoreCompileInputs.cache
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/CinemaX.Domain.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/refint/CinemaX.Domain.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/CinemaX.Domain.pdb
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Domain/obj/Debug/net10.0/ref/CinemaX.Domain.dll

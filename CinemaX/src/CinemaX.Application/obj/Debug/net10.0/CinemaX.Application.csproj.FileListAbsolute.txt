@@ -1,0 +1,15 @@
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/bin/Debug/net10.0/CinemaX.Application.deps.json
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/bin/Debug/net10.0/CinemaX.Application.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/bin/Debug/net10.0/CinemaX.Application.pdb
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/bin/Debug/net10.0/CinemaX.Domain.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/bin/Debug/net10.0/CinemaX.Domain.pdb
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.csproj.AssemblyReference.cache
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.AssemblyInfoInputs.cache
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.AssemblyInfo.cs
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.csproj.CoreCompileInputs.cache
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX..179FF32F.Up2Date
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/refint/CinemaX.Application.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.pdb
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/ref/CinemaX.Application.dll
