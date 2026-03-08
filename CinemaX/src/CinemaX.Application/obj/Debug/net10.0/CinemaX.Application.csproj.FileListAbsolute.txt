@@ -13,3 +13,4 @@
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/refint/CinemaX.Application.dll
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.pdb
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/ref/CinemaX.Application.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Application/obj/Debug/net10.0/CinemaX.Application.sourcelink.json

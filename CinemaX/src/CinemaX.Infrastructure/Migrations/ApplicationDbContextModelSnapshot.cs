@@ -43,6 +43,54 @@ namespace CinemaX.Infrastructure.Migrations
                     b.ToTable("cities", (string)null);
                 });
 
+            modelBuilder.Entity("CinemaX.Domain.Entities.Genre", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("genres", (string)null);
+                });
+
+            modelBuilder.Entity("CinemaX.Domain.Entities.Movie", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(2000)
+                        .HasColumnType("character varying(2000)");
+
+                    b.Property<int>("DurationMins")
+                        .HasColumnType("integer");
+
+                    b.Property<Guid>("GenreId")
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("PosterUrl")
+                        .HasMaxLength(500)
+                        .HasColumnType("character varying(500)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(300)
+                        .HasColumnType("character varying(300)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("GenreId");
+
+                    b.ToTable("movies", (string)null);
+                });
+
             modelBuilder.Entity("CinemaX.Domain.Entities.Theater", b =>
                 {
                     b.Property<Guid>("Id")
@@ -258,6 +306,15 @@ namespace CinemaX.Infrastructure.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
+                });
+
+            modelBuilder.Entity("CinemaX.Domain.Entities.Movie", b =>
+                {
+                    b.HasOne("CinemaX.Domain.Entities.Genre", null)
+                        .WithMany()
+                        .HasForeignKey("GenreId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("CinemaX.Domain.Entities.Theater", b =>

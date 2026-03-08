@@ -17,3 +17,4 @@
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Infrastructure/obj/Debug/net10.0/CinemaX.Infrastructure.pdb
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Infrastructure/obj/Debug/net10.0/CinemaX.Infrastructure.genruntimeconfig.cache
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Infrastructure/obj/Debug/net10.0/ref/CinemaX.Infrastructure.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.Infrastructure/obj/Debug/net10.0/CinemaX.Infrastructure.sourcelink.json

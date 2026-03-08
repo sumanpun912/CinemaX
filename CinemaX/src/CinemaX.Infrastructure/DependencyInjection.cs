@@ -2,11 +2,15 @@ using System.Text;
 using CinemaX.Application.Auth;
 using CinemaX.Application.Cities;
 using CinemaX.Application.Data;
+using CinemaX.Application.Genres;
+using CinemaX.Application.Movies;
 using CinemaX.Application.Theaters;
 using CinemaX.Infrastructure.Auth;
 using CinemaX.Infrastructure.Cities;
 using CinemaX.Infrastructure.Data;
+using CinemaX.Infrastructure.Genres;
 using CinemaX.Infrastructure.Identity;
+using CinemaX.Infrastructure.Movies;
 using CinemaX.Infrastructure.Theaters;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -61,6 +65,11 @@ public static class DependencyInjection
         services.AddScoped<ITheaterRepository, TheaterRepository>();
         services.AddScoped<ICityService, CityService>();
         services.AddScoped<ITheaterService, TheaterService>();
+        
+        services.AddScoped<IGenreRepository, GenreRepository>();
+        services.AddScoped<IMovieRepository, MovieRepository>();
+        services.AddScoped<IGenreService, GenreService>();
+        services.AddScoped<IMovieService, MovieService>();
 
         return services;
     }

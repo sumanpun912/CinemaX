@@ -44,7 +44,7 @@ app.MapOpenApi();
 
 app.MapScalarApiReference(options =>
 {
-    options.WithTitle("My API")
+    options.WithTitle("CinemaX API")
         .WithTheme(ScalarTheme.Purple)
         .WithHttpBearerAuthentication(bearer =>
         {

@@ -142,3 +142,4 @@
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.API/obj/Debug/net10.0/CinemaX.API.pdb
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.API/obj/Debug/net10.0/CinemaX.API.genruntimeconfig.cache
 /Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.API/obj/Debug/net10.0/ref/CinemaX.API.dll
+/Users/sumanpun/Documents/cinemax/CinemaX/src/CinemaX.API/obj/Debug/net10.0/CinemaX.API.sourcelink.json
